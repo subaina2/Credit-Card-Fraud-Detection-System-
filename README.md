@@ -1,7 +1,7 @@
 # 💳 Credit Card Fraud Detection System
 
 ## Overview
-End-to-end machine learning project for detecting credit card fraud using imbalanced transaction data. The system combines supervised and unsupervised learning with SMOTE-based balancing to improve fraud detection performance.
+End to end machine learning project for detecting credit card fraud using imbalanced transaction data. The system combines supervised and unsupervised learning with SMOTE-based balancing to improve fraud detection performance.
 
 ## Workflow
 - Data preprocessing & feature scaling  
