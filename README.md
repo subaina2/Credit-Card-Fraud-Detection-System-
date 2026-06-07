@@ -3,8 +3,6 @@
 ## Overview
 End-to-end machine learning project for detecting credit card fraud using imbalanced transaction data. The system combines supervised and unsupervised learning with SMOTE-based balancing to improve fraud detection performance.
 
----
-
 ## Workflow
 - Data preprocessing & feature scaling  
 - Exploratory Data Analysis (EDA)  
@@ -12,14 +10,10 @@ End-to-end machine learning project for detecting credit card fraud using imbala
 - Model training (Logistic Regression, Decision Tree, Random Forest, Isolation Forest, LOF)  
 - Evaluation using Accuracy, Precision, Recall, F1-score, ROC-AUC  
 
----
-
 ## Results
 - **Random Forest achieved best performance (99.99% accuracy, 100% recall)**  
 - SMOTE significantly improved fraud detection recall  
 - Tree-based models outperformed linear models  
-
----
 
 ## Key Highlights
 - Built full ML pipeline from raw data to final model  
