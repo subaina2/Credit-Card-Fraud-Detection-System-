@@ -1,10 +1,4 @@
-# Credit-Card-Fraud-Detection-System-
-
 # 💳 Credit Card Fraud Detection System
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Machine Learning](https://img.shields.io/badge/ML-ScikitLearn-orange)
-![Status](https://img.shields.io/badge/Project-Completed-green)
 
 ## 📌 Overview
 End-to-end machine learning project for detecting credit card fraud using imbalanced transaction data. The system combines supervised and unsupervised learning with SMOTE-based balancing to improve fraud detection performance.
